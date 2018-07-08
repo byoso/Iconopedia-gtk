@@ -7,7 +7,6 @@ my lame code makes pep8 crying  ;°D. I swear i'll do better a next time.
 I'd still like to continue this project, i have to :
 
 - set a "watch" mouse cursor while some heavy gtk elements are being building (huge listboxes !)
-- i'm still looking for a way to save (pickle doesn't work for that) the already built huge listboxes in some files, 
-to optimize the reactivity of the application.
+- i'm still looking for a way to serialize a pyGObject object (pickle doesn't work for that) to optimize the reactivity of the application. It doesn't look possible...
 
 Anyway, thanks for reading, feel free to leave a word if you have an idea for that 2 todo tasks, or not.
